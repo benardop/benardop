@@ -1,7 +1,19 @@
-# Hi, I'm Benard 👋🏾
+# Hi there 👋, **I'm Benard Pacho**
 
-I'm a software engineer who is passionate about developing high-quality software solutions and creating technology to elevate people, and build community. Some technologies I enjoy working with include Java, Ruby, Rails, ReactJS, and Jamstack (JavaScript, APIs + Markup). In 2022, I was admitted to Microverse to start training on full-stack web development skills.
+I am a passionate **Back-end Developer** with 7+ years of experience working with Java Technology Stack to develop high quality software solutions.
+In 2022, I was admitted to Microverse to start training on full-stack web development skills.
+
+- 🌱 I’m currently learning Ruby, Rails Framework, React.js and Redux 
+- 👯 I’m looking to collaborate on **Open Source Project** and **IoT** 
+- 💬 Ask me about *anything* 
+- 📫 How to reach me: **benard.pacho@gmail.com** 
+- 😄 Pronouns: He / Him 
+- ⚡ Fun fact: I really believe programming can be fun.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benardop)](https://github.com/benardop/github-readme-stats)
+
+![Benard's GitHub stats](https://github-readme-stats.vercel.app/api?username=benardop&count_private=true)
 
 
-## Find me around the web 🌎: <a href="https://github.com/benardop">GitHub</a>
-- Sharing updates on <a href="https://www.linkedin.com/in/ochieng-benard-8264b815/">LinkedIn</a> 💼
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benardop)](https://git.io/streak-stats)
