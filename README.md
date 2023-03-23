@@ -3,7 +3,7 @@
 I am a passionate **Back-end Developer** with 7+ years of experience working with Java Technology Stack to develop high quality software solutions.
 In 2022, I was admitted to Microverse to start training on full-stack web development skills.
 
-- 🌱 I’m currently learning Ruby, Rails Framework, React.js and Redux 
+- 🌱 I’m currently exploring Ruby, Rails Framework, React.js and Redux 
 - 👯 I’m looking to collaborate on **Open Source Project** and **IoT** 
 - 💬 Ask me about *anything* 
 - 📫 How to reach me: **benard.pacho@gmail.com** 
