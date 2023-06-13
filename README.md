@@ -1,6 +1,6 @@
 # Hi there 👋, **I'm Benard Pacho**
 
-I am a passionate **Back-end Developer** with 7+ years of experience working with Java Technology Stack to develop high quality software solutions.
+I am a passionate **Back-end Developer** with 10+ years of experience working with Java Technology Stack to develop high quality software solutions.
 In 2022, I was admitted to Microverse to start training on full-stack web development skills.
 
 - 🌱 I’m currently exploring Ruby, Rails Framework, React.js and Redux 
